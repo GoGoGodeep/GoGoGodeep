@@ -1,5 +1,1 @@
-# Hi there, I'm GoGoGodeep 👋
-
-## GitHub Stats
-
 ![GoGoGodeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoGoGodeep&show_icons=true&theme=radical)
